@@ -31,7 +31,7 @@
   （補足：「テキストを出力」を押したときにクリップボードにコピーされています）
 
 # Author
-[Twitter](https://twitter.com/kiyo_ssb)
+- [Twitter](https://twitter.com/kiyo_ssb)
 
 # Licence
 Match-Table-Generator is under [MIT license](https://github.com/Kiyossb/Match-Table-Generator/blob/main/LICENSE)
